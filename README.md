@@ -10,7 +10,7 @@ This dashboard enables stakeholders to monitor key business metrics, identify hi
 
 ## 📸 Dashboard Preview
 
-![Executive Sales Report](sales report.png)
+![Executive Sales Report](images/sales report.png)
 
 ---
 
